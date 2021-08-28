@@ -1,6 +1,3 @@
-# K-ROD-AI
-K-ROD projemizin AI ayağı için yazmış olduğum kodlar ve eğitmiş olduğum dosyalara buradan ulaşabilirsiniz.
-
 # EĞİTİM HAZIRLIĞI
 Eğitim için Darknet kullandım (https://github.com/AlexeyAB/darknet) ve seçtiğim algoritma da yolov4-tiny oldu.Bunu seçmemdeki amaç pi den tam performans ve verim alabilmekdi. 
 
