@@ -27,7 +27,7 @@ Yukarıdaki örnekte label dosyalarında Tree yerine 0 Person yerine 1 yazılaca
 Daha sonrasında tüm dosyaları düzenli bir şekilde adlandırma uyguladım.(örneğin: 1 den 1000 e kadar).
 Bunu yaparken yine bir koddan yararlandım.(yukarıdan ulaşabilirsiniz.)
 
-Daha sonrasında data dosyasını oluşturmaya başladım (Darknet için). Öncelikle CTG dosyasını düzenledim. Darknet dosyasında bulunna cfg dosyaları arasından bulabilirsiniz ben oradan aldım.
+Daha sonrasında data dosyasını oluşturmaya başladım (Darknet için). Öncelikle CFG dosyasını düzenledim. Darknet dosyasında bulunna cfg dosyaları arasından bulabilirsiniz ben oradan aldım.
       
       
       batch=64
