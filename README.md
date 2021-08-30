@@ -111,3 +111,6 @@ Bu işlemler sırasıyla uyguladığımda eğitim işlemini başarılı bir şek
 Tavsiyem çok büyük eğitimleri buradan yapmak yerine iyi bir bilgisayarda yapmanız daha verimli olacaktır.
 
 https://youtu.be/DjO9UtSON6U  bu videodaki aşamaları takip ederek yapabilirsiniz.
+
+
+Proje için düzenlemiş olduğum kod yukarıda k-rod.py dosyasından ulaşabilirsiniz.
